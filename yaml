@@ -1,0 +1,10 @@
+#YAML example
+person:
+  first_name: Beyza
+  last_name: Tasdelen
+  tckn: '74834458092'
+  age: 30
+  country_code: '90'
+  mobile_phone: '5322222222'
+  email: beyzakavgacii@gmail.com
+  birth_day: '1994-01-01'
