@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <person>
+    <first_name>Beyza</first_name>
+    <last_name>Tasdelen</last_name>
+    <tckn>74834458092</tckn>
+    <age>30</age>
+    <country_code>90</country_code>
+    <mobile_phone>5322222222</mobile_phone>
+    <email>beyzakavgacii@gmail.com</email>
+    <birth_day>1994-01-01</birth_day>
+  </person>
+</root>
